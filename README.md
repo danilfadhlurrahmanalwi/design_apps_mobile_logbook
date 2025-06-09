@@ -5,5 +5,5 @@
 #### Project Description
 This project is an independent, self-initiated design project. I developed the design using Figma, creating a user interface that aligns with the concept and functionality of the Digital Logbook website. The design is specifically tailored for the iPhone 16 device, ensuring a responsive and user-friendly mobile experience. In addition to designing the interface, I also built an interactive prototype to demonstrate the user flow and overall functionality of the application. This project allowed me to further enhance my UI/UX design skills, particularly in mobile interface design and prototyping.
 
-# Ducomentation
+# Documentation
 <img src ="assets/aplikasi_logbook.png" width="500" />
