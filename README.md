@@ -1,4 +1,4 @@
-# UI/UX Design for the Mobile Version of the Digital Logbook Application.
+# 🎨 UI/UX Design for the Mobile Version of the Digital Logbook Application.
 #### Year Accomplished : 2025
 #### Role/Position : Application UI/UX Design
 #### Publication Link : [View Design Feed](https://www.figma.com/design/lvH2mSrRXfDLXoLbQA9Ih0/Project-Desain-TA?t=FZQGHufICXpAsJSm-1)
